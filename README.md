@@ -1,2 +1,2 @@
 # wp-custom-tweaks
-Site specific custom plugin to apply tweaks and feature improvemnt to your wordpress site.
+Site specific custom plugin to apply tweaks and feature improvement to your wordpress site.
